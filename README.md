@@ -1,2 +1,2 @@
 # test
-connection_string = main.com
+connection_string = staging.com
